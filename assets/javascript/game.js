@@ -36,5 +36,6 @@ teamtwobutton.addEventListener("click", function(){
 resetbutton.addEventListener("click", function(){
     console.log
     numresets.innerHTML = num0resets +=1
-        
+        teamoneshots.innerHTML = team1shots = 0
+    
 })
